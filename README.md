@@ -75,7 +75,7 @@ Where:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student_marks_predictor.git
+git clone https://github.com/Swati2064/student_marks_predictor.git
 ```
 
 ---
